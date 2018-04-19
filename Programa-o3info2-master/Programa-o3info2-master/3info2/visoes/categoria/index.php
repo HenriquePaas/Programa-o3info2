@@ -1,7 +1,7 @@
 
     <meta charset="utf-8"/>
 
-    <link rel="stylesheet" type="text/css" href="../assets/semantic/semantic.css">
+    <link rel="stylesheet" type="text/css" href=" ../assets/semantic/semantic.css">
 <div class="ui  aligned divided list" >
 
     <h1 style="margin-left: 40%;"> <i class="address book outline icon"></i> Listagem de Categorias</h1>
